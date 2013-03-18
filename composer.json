@@ -4,7 +4,8 @@
     "type": "library",
     "keywords": [
         "zf2",
-        "zend layouts"
+        "zend",
+        "layouts"
     ],
     "homepage": "https://github.com/zelpex/layouts",
     "authors": [
@@ -15,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "zendframework": ">2.*"
+        "zendframework": ">=2.*"
     },
     "autoload": {
         "classmap": [
