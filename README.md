@@ -18,7 +18,7 @@ config file simply specify the following:
 
 //php
 array(
-    'module_layouts' => array(
+    'module_layout' => array(
         'moduleName' => 'layout/any-layout-name',
     ),
 );
