@@ -14,8 +14,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3"
-        "zendframework": ">2.1.*"
+        "php": ">=5.3",
+        "zendframework": ">2.*"
     },
     "autoload": {
         "classmap": [
