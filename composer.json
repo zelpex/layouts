@@ -3,7 +3,8 @@
     "description": "Zelpex Layouts module is a simple ZF2 module that simply allows you to specify alternative layouts to use for each module.",
     "type": "library",
     "keywords": [
-        "zf2"
+        "zf2",
+        "zend layouts"
     ],
     "homepage": "https://github.com/zelpex/layouts",
     "authors": [
@@ -14,6 +15,7 @@
     ],
     "require": {
         "php": ">=5.3"
+        "zendframework": ">2.1.*"
     },
     "autoload": {
         "classmap": [
