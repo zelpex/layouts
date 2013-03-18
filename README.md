@@ -1,4 +1,4 @@
-Zelpex\Layouts
+Zelpex_Layouts
 ================
 Version 1.0 Created by Andrew Boyko
 
